@@ -75,3 +75,4 @@ Successfull returns return an array of objects in the same order and length subm
 ```
 
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mihaicc/django-superbulk/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
